@@ -1,4 +1,6 @@
-Fecha limite de entrega:  Domingo 11:55pm
+# Instrucciones
+
+Fecha limite de entrega:  Jueves 11:55pm
 
 1.- Escribe un código simple (cómo si fuera C/fortran), para resolver la ecuación de movimiento de un péndulo simple.
 2.- Reescribe dicho código aprovechando el manejo de arreglos de numpy. 
