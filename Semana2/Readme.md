@@ -1,6 +1,6 @@
 Nombre:Rafael Alejandro García Ramírez.
 
-Los apuntes se encuentran dentre de la carpeta 'Apuntes Pandas' y el ejercicio del punto 3 dentro de la carpeta 'Actividad 2: Creaciónd de una base de Datos' asímismo la carpeta con los archivos CSV correspondientes.
+Los apuntes se encuentran dentro de la carpeta 'Apuntes Pandas' y el ejercicio del punto 3 dentro de la carpeta 'Actividad 2: Creación de una base de Datos', asímismo la carpeta con los archivos CSV correspondientes.
 
 
 Ejercicio 
