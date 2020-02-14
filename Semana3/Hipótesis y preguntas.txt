@@ -1,0 +1,20 @@
+1)Lluvias:
+
+1.-¿Cuál es la relación que existe entre las variaciones de la temperatura y la cantidad de lluvia en todo el país?
+
+2.- ¿En todo el país existe el mismo aumento y decremento en las lluvias y temperatura durante los mismos meses del año?
+
+(Potencial pregunta abierta)
+¿Cómo se comporta la distribución en temperatura y lluvias con la población de la zona del país?
+
+2)Del archivo Tabulador:
+
+1.-Determinar la relación entre el puesto que se tiene y la cantidad de paga
+
+2.- A su vez, determinar la relación entre el sueldo neto que se obtiene y la cantidad que éste debe pagar de impuestos por el mismo, en relación con los demás trabajadores. 
+
+3)Salarios mínimos
+
+1.-Encontrar la relación entre el crecimiento del salario mínimo y el precio de la canasta básica
+
+
